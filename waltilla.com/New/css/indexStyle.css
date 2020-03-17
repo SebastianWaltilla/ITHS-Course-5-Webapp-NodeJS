@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans&display=swap'); /*font download from google */
+
+
+/* general settings
+https://color.adobe.com/sv/create/color-wheel/
+fontcolor beige #FFC582
+fontcolor blue  #4393B5
+
+youtube
+width="560" height="315"
+
+*/
+body{
+    font-family: 'Open Sans', sans-serif;  /*  */
+}
+h1{/*  */
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+}
+h2{/*  */
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+}
+p{/*  */
+    font-size: 14px;
+    line-height: 160%;
+}
+a{/*  */
+    font-size: 14px;
+    font-weight: bold;
+    color: aquamarine;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #4393B5;
+  }
+ul{/* list style none, ger inga dots  */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+}
+li{
+    margin-bottom: 8px;
+    display: inline;
+    margin-right: 10px; /* white space mellan de olika li elementen */
+}
+
+.img_main{
+    margin: 0 auto; /*centrera*/
+    display: block; /* eftersom bilden är inlne */
+
+}
+.youtube{
+    width: 100%;
+    height: 315px;
+}
