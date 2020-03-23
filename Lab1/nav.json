@@ -1,0 +1,24 @@
+{
+  "nav": [
+    {
+      "fileUrl": "skinCare.html",
+      "name": "Skin Care"
+    },
+    {
+      "fileUrl": "fragrance.html",
+      "name": "Fragrance"
+    },
+    {
+      "fileUrl": "allProducts.html",
+      "name": "All Products"
+    },
+    {
+      "fileUrl": "about.html",
+      "name": "Skin Care"
+    },
+    {
+      "fileUrl": "contact.html",
+      "name": "Contact"
+    }
+  ]
+}
