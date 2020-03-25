@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productCategory": "skinCare",
+      "productTitle": "Handla",
+      "productDescription": "Mjölk, smör, bröd",
+      "productTableOfContent": "2016-08-01",
+      "productPrice": 500,
+      "productWeight": 150,
+      "productPicture": "img/fragrance1.jpg",
+      "cartNumber": 0
+    },
+    {
+      "productCategory": "skinCare",
+      "productTitle": "Handla",
+      "productDescription": "Mjölk, smör, bröd",
+      "productTableOfContent": "2016-08-01",
+      "productPrice": 500,
+      "productWeight": 150,
+      "productPicture": "img/fragrance1.jpg",
+      "cartNumber": 0
+    }
+  ]
+  }
