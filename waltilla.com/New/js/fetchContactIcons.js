@@ -18,20 +18,12 @@ function getAllElementsFromJson(jsonPath, htmlId){
             let todos = data.products;
 
             return todos.map(function(todo) {
-                let article = createNode('article')
+
                 let a = createNode("a");
-                let h1 = createNode("h1");
-                let p = createNode("p");
-
                 a.href = todo.hyperLink;
-                a.innerHTML = "<img src=\"" + todo.src +"\">";
-                h1.innerHTML = todo.title;
-                p.innerHTML = todo.infoText;
+                a.innerHTML = "<img src=" + todo.src + " " + "class=" + "\"" + todo.class +"\">";
 
-                append(article, a);
-                append(article, h1);
-                append(article, p);
-                append(fill, article);
+                append(fill, a);
             })
         })
         .catch(function(error) {

@@ -1,9 +1,9 @@
 {
   "products": [
   {
-      "title": "Java",
+      "school": "Java",
       "hyperLink": "https://github.com/SebastianWaltilla",
-      "alt": "link to github: https://github.com/SebastianWaltilla",
+      "d": "link to github: https://github.com/SebastianWaltilla",
       "src": "skills/javaicon.png",
       "class": "skills_img",
       "infoText": "Mitt huvudspråk är java. Stor vikt har lagts till att förstå oop grundläggande javasyntax med objektorienterad programmering där vi fått testa patterns, SOLID och TTD."

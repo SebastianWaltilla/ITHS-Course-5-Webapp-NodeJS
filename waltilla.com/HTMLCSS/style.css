@@ -1,0 +1,193 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: #ffffff;
+    font-family: Helvetica;
+}   
+
+
+
+
+
+
+.waltillaDevBanner
+{
+    width: 100%;
+    margin: auto;
+    float: center;  
+    max-width: 700px;
+
+}
+.waltillaDevBanner img
+{
+    max-width: 100%;
+
+
+}
+
+.profile-info
+{
+    width: 100%;
+    margin: auto;
+    float: center;
+    overflow: scroll;
+    overflow-x: hidden;
+    max-width: 700px;
+
+}
+.profile-info::-webkit-scrollbar
+{
+    width: 0px;
+}
+.profile-info h3
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+
+.contactIcons
+{
+    background-color: white;
+    max-width: 800px;   
+}
+.contactIcons img
+{
+    height: 50px;
+}
+
+
+.sebastianInfo
+{
+   display: inline-block;
+   width: 100%;
+   padding: 10px 10px;
+   margin: 2%;
+   text-align: center; 
+   background: FAFAFA;
+}
+
+.sebastianInfo small
+{
+    padding-top: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+.sebastianInfo img
+{
+    width: 30%;
+    margin: 5px;s
+} 
+
+
+.lia img{
+    width: 60%;
+}
+
+
+.gitPush img
+{
+    width: 90%;
+    margin: 5px;
+} 
+.gitPush
+{
+   display: inline-block;
+   width: 100%;
+   padding: 10px 10px;
+   margin: 2%;
+   text-align: center; 
+   background: FAFAFA;
+}
+.gitPush small
+{
+    padding-top: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+
+
+
+.skillicons img
+{
+    padding-top: 10px;    
+    padding: 0 20px;
+    height: 50px;
+}
+.skillicons
+{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+.javaSkills img
+{
+    width: 90%;
+    margin: 5px;
+} 
+.javaSkills
+{
+   display: inline-block;
+   width: 100%;
+   padding: 10px 10px;
+   margin: 2%;
+   text-align: center; 
+   background: FAFAFA;
+}
+.javaSkills small
+{    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 10px;
+    display: block;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+
+
+
+
+.pizzaSkills img
+{
+    width: 90%;
+    margin: 5px;
+} 
+.pizzaSkills
+{
+   display: inline-block;
+   width: 100%;
+   padding: 10px 10px;
+   margin: 2%;
+   text-align:git adgit  center; 
+   background: FAFAFA;
+}
+.pizzaSkills small
+{
+    padding-top: 10px;  
+     padding-left: 3%;
+    padding-right: 3%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+
+

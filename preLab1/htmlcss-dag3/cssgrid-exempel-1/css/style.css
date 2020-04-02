@@ -1,0 +1,20 @@
+.grid-container{
+      max-width: 1000px;          /* för att se till att den funkar för desktop */
+      background-color: #eee;
+      margin: 10px auto;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      /*grid-template-columns: 1fr 1fr;
+      //grid-template-columns: repeat(2, 1fr);    /* för att få tre brevid varandra
+      //grid-template-columns: 300px 1fr;*/
+      /*första kollumnen är 300 pixlar, den beöver inte vara responsiv vid menyer tex */
+
+      grid-template-rows: 200px auto 30px ; // Tex fotter vill ha 30 px hög för alla devices
+  grid-gap: 10px;
+  }
+
+.grid-item{
+    background-color: #999;
+    padding: 10px;
+
+}

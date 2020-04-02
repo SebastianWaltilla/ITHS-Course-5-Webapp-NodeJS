@@ -62,6 +62,7 @@ nav.nav_list{
 .nav_icon{
     height: 50px;
     width: auto;
+    text-align: center;
 }
 .nav_icon:hover {
     opacity: 0.5;
@@ -78,9 +79,9 @@ section{
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto;
     grid-template-areas:
-    "navigation"
-    "main-content"
-    "footer";
+            "navigation"
+            "main-content"
+            "footer";
     grid-gap: 15px;
     text-align: center;
 }
@@ -218,4 +219,3 @@ div.partnersLogo  {
     }
 
 }
-
