@@ -25,3 +25,4 @@ node app.js
 Gå till http://127.0.0.1:3000/user/ och välj POST som metod i Postman. skriv in firstname och lastname med värden (samma som i post.html i public-katalogen)
 4. Gå till http://127.0.0.1:3000/ och klicka på länken till formuläret. Fyll sedan i textfälten för förnamn och efternamn och kolla att du får samma resultat i webbläsaren som i steg 3
 
+$ npm install postgres
